@@ -1,0 +1,15 @@
+digraph {
+  Will -> Desktop;
+  Will -> Laptop;
+  Will -> Phone;
+
+  Desktop -> "Will's Server";
+  Laptop -> "Will's Server";
+  Phone -> "Will's Server";
+
+  "Will's Server" -> Desktop;
+  "Will's Server" -> Laptop;
+  "Will's Server" -> Phone;
+
+  "Will's Server" -> "Outside world";
+}

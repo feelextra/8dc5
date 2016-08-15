@@ -1,0 +1,9 @@
+dot graph1.dot -Tsvg -o graph1.svg
+dot graph2.dot -Tsvg -o graph2.svg
+dot graph3.dot -Tsvg -o graph3.svg
+
+cp graph1.svg graph1-50percent.svg
+
+convert graph1.svg graph1.png
+convert graph2.svg graph2.png
+convert graph3.svg graph3.png

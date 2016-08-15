@@ -1,0 +1,43 @@
+digraph {
+  Will -> Desktop;
+  Will -> Laptop;
+  Will -> Phone;
+  Will -> Dropbox;
+
+  Will -> Gmail;
+  Will -> Blogger;
+  Will -> "Acme Game Forum";
+  Will -> "Acme Bank";
+  Will -> Flickr;
+  Will -> FitBit;
+  Will -> Disqus;
+  Will -> Goodreads;
+  Will -> Quora;
+  Will -> "Google Drive";
+  Will -> Twitter;
+  Will -> Blackboard;
+
+  Desktop -> Backup;
+
+  Desktop -> Dropbox;
+  Dropbox -> Desktop;
+
+  Laptop -> Dropbox;
+  Dropbox -> Laptop;
+
+  Phone -> Dropbox;
+  Dropbox -> Phone;
+
+  "Google Drive" -> Laptop;
+  Laptop -> "Google Drive";
+
+  Gmail -> Desktop;
+  Gmail -> Phone;
+
+  Gmail -> "Google Drive";
+  "Google Drive" -> Gmail;
+  Blogger -> "Google Drive";
+  "Google Drive" -> Blogger;
+
+  "Acme Bank" -> Mint;
+}

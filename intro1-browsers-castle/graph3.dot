@@ -1,0 +1,15 @@
+digraph {
+  Will -> "Will's Devices";
+
+  "Will's Devices" -> "Will's Server";
+  "Will's Server" -> "Will's Devices"
+
+  "Will's Server" -> "Lucas's Server";
+  "Will's Server" -> "Mike's Server";
+
+  "Mike's Server" -> "Will's Server";
+  "Mike's Server" -> "Lucas's Server";
+
+  "Lucas's Server" -> "Will's Server";
+  "Lucas's Server" -> "Mike's Server";
+}
