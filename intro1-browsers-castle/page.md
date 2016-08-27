@@ -239,7 +239,7 @@ Not only is this different for every site, many aren't as good citizens as Wikip
 
 The browser UE's social applications are anemic and misimplemented. The current trend is for them to include increasingly complex privacy managers -- each with a different UI -- but this is attempting to solve an impossible problem. Writing out share permissions per website per friend can never be made simple.
 
-I don't want to start my communications over with my close friends on every site. With them I want to share almost everything. Doing that in the browser UE will always be a frustrating because I have to sign up for a new site for each type of content I want to create, my friends have to get accounts as well, we have to connect on that site, and I have to set share permissions. This unending and unnecessary friction makes Browser's Castle a lonely place to live.
+I don't want to start my communications over with my close friends on every site. With them I want to share almost everything. Doing that in the browser UE will always be frustrating because I have to sign up for a new site for each type of content I want to create, my friends have to get accounts as well, we have to connect on that site, and I have to set share permissions. This unending and unnecessary friction makes Browser's Castle a lonely place to live.
 
 ## 3. The Monster
 
