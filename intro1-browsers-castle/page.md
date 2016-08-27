@@ -253,15 +253,15 @@ The gifts:
 
 + Data management by professionals
 
-Absolutely the correct default (whether the data should be smeared over the servers of every company whose webapps you use is a different matter).
+    Absolutely the correct default (whether the data should be smeared over the servers of every company whose webapps you use is a different matter).
 
 + An open frontend specification and the requirement to provide frontend source code
 
-The "open web". This draws support from technology activists.
+    The "open web". This draws support from technology activists.
 
 + Closed backend code and closed data
 
-A recipe for private printing presses. Draws a staggering amount of corporate support.
+    A recipe for private printing presses. Draws a staggering amount of corporate support.
 
 So that's the enemy. Frankly it's pretty terrifying.
 
