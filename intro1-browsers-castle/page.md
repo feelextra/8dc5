@@ -6,7 +6,7 @@ The story for very casual users is nearly as good. Instagram, Snapchat, etc. all
 
 So we've covered two types of computer use -- industrial and casual -- and  both are advancing well. The industrial computing ecosystem (much of it free!) and smartphones are strong contenders for Wonders of the Modern World slots. At this point you might think you're reading a sci-fi story.
 
-But there's a crack in our knowledge. What about the space between industrial and casual use, computer "operation"?[^1] How well do our tools perform at intellectually demanding tasks on the scale of a single person? We'll describe the state of this ecosystem next, but be warned -- we're about to switch genres. From here on things are going to feel like a bad dream, and like many dreams, there's a monster at the end of it.
+But there's a crack in our knowledge. What about the space between industrial and casual use, computer "operation"?[^1] How well do our tools perform at intellectually demanding tasks on the scale of a single person? We'll describe the state of this ecosystem next, but be warned-- we're about to switch genres. From here on things are going to feel like a bad dream, and like many dreams, there's a monster at the end of it.
 
 [![](./rust-and-marty-110percent.jpg "True Detective")](./rust-and-marty-110percent.jpg)
 
@@ -81,7 +81,7 @@ _JavaScript_: I'm so sorry.
 
 _Postgres_: What's this about Dot?
 
-_Dot_ : So I've been thinking that free software is a good thing, but maybe sometimes it's not because people have to make money somehow. So they'll try to make money off data instead and if the movement of data gets borked that's worse than software getting borked, but ... I'm sorry, I know this isn't making sense. I can't think without a pen.
+_Dot_ : So I've been thinking that free software is a good thing, but maybe sometimes it's not because people have to make money somehow. So they'll try to make money off of data instead and if the movement of data gets borked that's worse than software getting borked, but ... I'm sorry, I know this isn't making sense. I can't think without a pen.
 
 _Browser_: Here you go.
 
@@ -271,7 +271,7 @@ One answer is simply so society works better. Cancer researchers do a lot of com
 
 But I have a more personal reason. Programming is one of my favorite things in life, but I didn't discover it until I was already an adult. Part of this was simply bad luck, but part was due to the lack of explorability of the environment I was in.
 
-Server-side-only code has its place in industry programming, but we can demand better for personal user environments. The idea of a kid's (possibly rare) moment of curiosity dying in our JS/HTML/CSS wasteland is extremely depressing. We're under no obligation to provide a real computing environment -- one with data at their fingertips and no hidden backend code -- for interested beginners. It's still a thing worth doing.
+Server-side-only code has its place in industry programming, but we can demand better from our personal user environments. The idea of a kid's (possibly rare) moment of curiosity dying in our JS/HTML/CSS wasteland is extremely depressing. We're under no obligation to provide a real computing environment -- one with data at their fingertips and no hidden backend code -- for interested beginners. It's still a thing worth doing.
 
 Fortune: _For unsummoned and unlocked for Turgon had opened the leaguer of Gondolin, and was come with an army ten thousand strong, with bright mail and long swords and spears like a forest._
 
