@@ -39,7 +39,6 @@ _Go_: That's because you've got it upside down.
 _GHC_: And it's not a map, it's a multidigraph.
 
 [![](./graph1-50percent.svg "Graph")](./graph1.svg)
-[![](./graph1.png "Graph")](./graph1.png)
 
 _Postgres_: Huh.
 
@@ -88,12 +87,10 @@ _Browser_: Here you go.
 _Dot_: Thanks, that's better. Alright you saw what we do have. This is what we should have:
 
 [![](./graph2.svg "Graph 2")](./graph2.svg)
-[![](./graph2.png "Graph 2")](./graph2.png)
 
 _Dot_: Only talking about content creation, not consumption. Think about how badly JavaScript's model would interact with other people! This model interacts like a dream:
 
 [![](./graph3.svg "Graph 3")](./graph3.svg)
-[![](./graph3.png "Graph 3")](./graph3.png)
 
 _Dot_: So here's the question: why's the original user's data storage so messed up? Something strange is going on. His operating system isn't the problem. He's on Linux. We won the operating system wars.
 
