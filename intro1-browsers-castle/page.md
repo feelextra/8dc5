@@ -277,6 +277,6 @@ Fortune: _For unsummoned and unlocked for Turgon had opened the leaguer of Gondo
 
 Until Chromebooks have a "not for sale to children" label the fight will be on. Let's hunt this monster.
 
-[![](./joyce-byers-80percent.jpg "Joyce Byers")](./joyce-byers-80percent.jpg)
+[![](./joyce-byers-80percent.jpg "Joyce Byers")](./joyce-byers.jpg)
 
 [^1]: [LoperOS](http://www.loper-os.org/?p=284): "[T]he distinction between "user" and "programmer" is an artifact of our presently barely-programmable and barely-usable computing systems. I would like to use the neutral word "operator" instead."
