@@ -1,3 +1,7 @@
+## Summary
+
+(Spoilers) <span class="spoiler">We set out to investigate web browsers and the results are initially reassuring. Browsers are a JS-based computing environment backed by cloud storage -- so far so good. But when we continue our research things begin to get sinister. Browsers have _no concept of what a piece of data is_, but only work on markup? They default to _multiple, ad-hoc remote stores_? Blinded by continuous exposure, we've failed to appreciate just how strange a tool we've chosen to do our computing in.</span>
+
 ## Intro
 
 In the 2010s we have excellent tools for large-scale, professional computer work. On the flashy side we have the language renaissance (including [Clojure](https://clojure.org/), [Go](https://golang.org/), [Swift](https://swift.org/), [Rust](https://www.rust-lang.org/en-US/) and [Haskell](https://haskell-lang.org/)). We also have a great server OS in Linux, rock solid databases and a massive software library ecosystem. Technology on this front, while not perfect, is advancing at an impressive rate.
@@ -38,7 +42,10 @@ _Go_: That's because you've got it upside down.
 
 _GHC_: And it's not a map, it's a multidigraph.
 
+<!-- NOTE: The div makes the image use a horizontal scroll bar. Without this the whole page can scroll horizontally, which makes for wiggly vertical scrolling using two fingers on OSX. -->
+<div style="overflow:auto;">
 [![](./graph1-50percent.svg "Graph")](./graph1.svg)
+</div>
 
 _Postgres_: Huh.
 
