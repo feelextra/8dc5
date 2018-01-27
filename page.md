@@ -1,3 +1,5 @@
+# Browser's Castle
+
 ## Summary
 
 (Spoilers) <span class="spoiler">We set out to investigate web browsers and the results are initially reassuring. Browsers are a JS-based computing environment backed by cloud storage -- so far so good. But when we continue our research things begin to get sinister. Browsers have _no concept of what a piece of data is_, but only work on markup? They default to _multiple, ad-hoc remote stores_? Blinded by continuous exposure, we've failed to appreciate just how strange a tool we've chosen to do our computing in.</span>
